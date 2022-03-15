@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6294867-3dc5-4367-8539-b4e6aaba6b5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bangcuachuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinhgiaithu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vonglapsaointamgiac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyentapvonglap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyentapvonglap5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyenvonglap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyenvonglap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyenvonglap6.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyenvonglap6.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26PXqVhzyxqRMjYEFmat7CxUWiZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6294867-3dc5-4367-8539-b4e6aaba6b5a" name="Changes" comment="" />
+      <created>1647326386742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647326386742</updated>
+      <workItem from="1647326387865" duration="6857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

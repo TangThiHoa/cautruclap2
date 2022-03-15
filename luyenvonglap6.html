@@ -6,15 +6,24 @@
 </head>
 <body>
 <script>
-    let a = prompt('Nhap a ')
-    let b = prompt('Nhap b ')
-    let c= a+b
-    for(let i=0; i<=30; i++) {
+    let st1= 0;
+    let dem = 0
+    for (let i = 1; ;i++ ) {
         if (i % 7 == 0) {
-            c = c + 1;
+            st1 += i;
+            dem++
+            if (dem == 30) {
+                break;
+            }
         }
-        document.write("c = " + c);
     }
+
+
+    console.log(st1)
+
+
+
+
 
 
 </script>
